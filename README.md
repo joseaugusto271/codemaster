@@ -7,7 +7,7 @@ o menu mobile não abre e o formulário recarrega a página, o modo escuro/claro
 - [x] 1. Menu mobile
 - [x] 2. Navegação ativa
 - [x] 3. Modo escuro/claro
-- [ ] 4. Animação do título
+- [x] 4. Animação do título
 - [ ] 5. Animação da seção Home
 - [ ] 6. Animação das seções
 - [ ] 7. Botão de voltar ao topo
