@@ -1,0 +1,9 @@
+JSON = JavaScript Object Notation
+ Estrutura para I/O de dados
+ I/O = Input / Output
+
+Um input faz uma requisição à uma URL e retorna um resultado
+
+API (Application Programming Interface) = conjunto de padrões, protocolos e ferramentas que permite que diferentes softwares se comuniquem e troquem dados de forma segura e simplificada.
+
+Fazer os comentários em um código antes de codificar é extremamente importante para organizar as idéias do que será feito
