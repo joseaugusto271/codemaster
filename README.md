@@ -10,7 +10,7 @@ o menu mobile não abre e o formulário recarrega a página, o modo escuro/claro
 - [x] 4. Animação do título
 - [x] 5. Animação da seção Home
 - [x] 6. Animação das seções
-- [ ] 7. Botão de voltar ao topo
+- [x] 7. Botão de voltar ao topo
 - [ ] 8. Carrossel de projetos
 - [ ] 9. Formulário de contato
 - [ ] 10. Atuação da seção "Sobre"
