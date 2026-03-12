@@ -13,7 +13,7 @@ o menu mobile não abre e o formulário recarrega a página, o modo escuro/claro
 - [x] 7. Botão de voltar ao topo
 - [x] 8. Carrossel de projetos
 - [x] 9. Formulário de contato
-- [ ] 10. Atuação da seção "Sobre"
+- [x] 10. Atuação da seção "Sobre"
 
 ## 📂 Estrutura de Pastas
 
